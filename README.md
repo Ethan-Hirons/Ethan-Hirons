@@ -2,7 +2,11 @@
 
 <p align="center">
   🎓 Computer Science Student at Lincoln Memorial University (LMU) 
-  🎓 Web Programmer
+  🎓 HighSchool 4 years - Škola za dizajn, grafiku i održivu gradnju - Web Programmer
+        - Over these 4 years I learnt
+            - HTML, CSS, JS, jQuery, PHP, SQL, PHPmyAdmin, React and C#
+        - Worked with classmates on projects using GitHub
+        - Done multiple projects over the years.
   🎾 NCAA D2 Tennis Athlete  
   💻 Web & Software Developer | PHP • JS • SQL • C++ • jQuery • React
 </p>
