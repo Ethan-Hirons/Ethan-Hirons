@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ethan Hirons 👋</h1>
 
-<!--
-**Ethan-Hirons/Ethan-Hirons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Computer Science Student at Lincoln Memorial University (LMU) 
+  🎓 Web Programmer
+  🎾 NCAA D2 Tennis Athlete  
+  💻 Web & Software Developer | PHP • JS • SQL • C++ • jQuery • React
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+- From England and Croatia • studying in the US  
+- 💡 Passionate about building real, useful projects  
+- 🔭 Currently working on **SportPal** – a sports-matching web platform  
+- 📈 Also building **MyStocks** – a personal stock tracking web app  
+- 🎯 Goal: Software Engineering Intern — Full-Stack & Web Development (Summer 2026)
+
+---
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,python,mysql,git,github,vscode,react" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔵 SportPal (Web App)
+Sports-matching & player-recommendation platform.  
+**Tech:** PHP, MySQL, JavaScript, HTML/CSS  
+- User profiles  
+- Filters (age, location, sport)  
+- Recommendations algorithm  
+- Login/Register system  
+
+---
+
+### 🟢 MyStocks – Stock Tracking App - Current Project
+Web app to track personal stock investments.  
+**Tech:** JS, HTML/CSS, APIs (coming), PHP backend  
+- Portfolio overview  
+- Live stock data  
+- News feed  
+- Long-term goal: push to Next.js
+
+---
+
+### 🟣 C++ Calculator (Windows Forms)
+GUI calculator built with C++ and Windows Forms.  
+Shows OOP understanding + UI work.
+
+---
+
+## 📚 What I'm Learning Now
+- React & Next.js  
+- Modern PHP practices  
+- APIs & full-stack architecture  
+- Data structures + algorithms  
+- SQL optimization
+- AWS
+
+---
+
+## 📫 Contact
+- **Email:** `ethanlovrehirons@gmail.com`  
+- **GitHub:** https://github.com/Ethan-Hirons  
+- **LinkedIn:** *www.linkedin.com/in/ethan-hirons*  
+
+---
+
+
