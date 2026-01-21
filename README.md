@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ethan Hirons 👋</h1>
+  <h1 align="center">Hi, I'm Ethan Hirons 👋</h1>
 
 <p align="center">
   🎓 Computer Science Student at Lincoln Memorial University (LMU) 
@@ -23,7 +23,7 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,python,mysql,git,github,vscode,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,mysql,git,github,vscode,react" />
 </p>
 
 ---
