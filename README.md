@@ -1,76 +1,100 @@
-  <h1 align="center">Hi, I'm Ethan Hirons 👋</h1>
+<h1 align="center">Hi, I'm Ethan Hirons 👋</h1>
 
 <p align="center">
-  🎓 Computer Science Student at Lincoln Memorial University (LMU) 
-  🎓 HighSchool 4 years - Škola za dizajn, grafiku i održivu gradnju - Web Programmer
-        - Over these 4 years I learnt
-            - HTML, CSS, JS, jQuery, PHP, SQL, PHPmyAdmin, React and C#
-        - Worked with classmates on projects using GitHub
-        - Done multiple projects over the years.
-  🎾 NCAA D2 Tennis Athlete  
-  💻 Web & Software Developer | PHP • JS • SQL • C++ • jQuery • React
+  🎓 Computer Science major at <b>Marist University</b>, minor in <b>Applied AI</b> — class of 2028<br>
+  🎓 Previously 2 years at Lincoln Memorial University<br>
+  🎓 Škola za dizajn, grafiku i održivu gradnju — 4 years as a Web Programmer<br>
+  🎾 NCAA Division I Tennis Athlete&nbsp;&nbsp;•&nbsp;&nbsp;🗣️ Bilingual in English and Croatian<br>
+  💻 Web & Software Developer | Python • PHP • JS • SQL • C++ • React
+</p>
+
+<p align="center">
+  <b>Looking for Summer 2027 software engineering internships.</b>
 </p>
 
 ---
 
 ## 🧩 About Me
-- From England and Croatia • studying in the US  
-- 💡 Passionate about building real, useful projects  
-- 🔭 Currently working on **SportPal** – a sports-matching web platform  
-- 📈 Also building **MyStocks** – a personal stock tracking web app  
-- 🎯 Goal: Software Engineering Intern — Full-Stack & Web Development (Summer 2026)
+- From England and Croatia • studying in the US
+- 💡 Passionate about building real, useful projects
+- 🔭 Currently building **Jarvis** – a personal dashboard that runs my week
+- 🎯 Goal: Software Engineering Intern — Full-Stack, Applied AI & Automation
 
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,mysql,git,github,vscode,react" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,cpp,mysql,git,github,vscode,react" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔵 SportPal (Web App)
-Sports-matching & player-recommendation platform.  
-**Tech:** PHP, MySQL, JavaScript, HTML/CSS  
-- User profiles  
-- Filters (age, location, sport)  
-- Recommendations algorithm  
-- Login/Register system  
+### 📈 [ORB Trading Bot](https://github.com/Ethan-Hirons/orb-trading-bot) — Automated Day-Trading System
+An Opening Range Breakout strategy trading US equities through the Alpaca API.
+**Tech:** Python, Alpaca API, pytest
+- Risk controls first: 1% account risk per trade, server-side trailing stops, daily drawdown kill switch
+- Correlated-theme cap so one bet can't be taken five times over
+- Backtester and parameter sweep harness
+- A written record of every change — what the evidence supported, and where it didn't
 
 ---
 
-### 🟢 MyStocks – Stock Tracking App - Current Project
-Web app to track personal stock investments.  
-**Tech:** JS, HTML/CSS, APIs (coming), PHP backend  
-- Portfolio overview  
-- Live stock data  
-- News feed  
-- Long-term goal: push to Next.js
+### 🏡 [Villas Zečevo](https://github.com/Ethan-Hirons/villas-zecevo) — Multilingual Booking Site
+Booking site for two family-run holiday villas on Croatia's Dalmatian coast.
+**Tech:** HTML/CSS, vanilla JavaScript
+- Six languages (EN/DE/CS/PL/FR/HR) switched client-side from one translation table
+- Per-property pages sharing a single stylesheet
+- Photo galleries tuned for mobile, where nearly all booking traffic lands
+- SEO done properly: per-page meta, sitemap, robots.txt
+
+---
+
+### 🤖 [Jarvis](https://github.com/Ethan-Hirons/jarvis-dashboard) — Personal Command Dashboard
+A local dashboard that opens at login with everything I run my week on.
+**Tech:** Python (stdlib only), JavaScript, REST APIs
+- Trading bot performance, class and practice schedules, deadlines, quick links
+- Zero dependencies — no pip install, no virtualenv, loopback only
+- Windows startup installer
+
+---
+
+### 🔵 [SportPal](https://github.com/Ethan-Hirons/SportPal) (Web App)
+Sports-matching & player-recommendation platform.
+**Tech:** PHP, MySQL, JavaScript, HTML/CSS
+- User profiles
+- Filters (age, location, sport)
+- Recommendations algorithm
+- Login/Register system
+
+---
+
+### 📓 Digital Diary (High School Team Project)
+A digital diary for teachers to record student grades and attendance and write comments — built with classmates over a shared repo.
+**Tech:** PHP, SQL, JavaScript, HTML/CSS
+- My first experience building software collaboratively: split responsibilities and a schema everyone had to agree on
 
 ---
 
 ### 🟣 C++ Calculator (Windows Forms)
-GUI calculator built with C++ and Windows Forms.  
+GUI calculator built with C++ and Windows Forms.
 Shows OOP understanding + UI work.
 
 ---
 
 ## 📚 What I'm Learning Now
-- React & Next.js  
-- Modern PHP practices  
-- APIs & full-stack architecture  
-- Data structures + algorithms  
+- Applied AI and local LLM inference
+- React & Next.js
+- APIs & full-stack architecture
+- Data structures + algorithms
 - SQL optimization
 - AWS
 
 ---
 
 ## 📫 Contact
-- **Email:** `ethanlovrehirons@gmail.com`  
-- **GitHub:** https://github.com/Ethan-Hirons  
-- **LinkedIn:** *www.linkedin.com/in/ethan-hirons*  
+- **Email:** `ethanlovrehirons@gmail.com`
+- **GitHub:** https://github.com/Ethan-Hirons
+- **LinkedIn:** www.linkedin.com/in/ethan-hirons
 
 ---
-
-
