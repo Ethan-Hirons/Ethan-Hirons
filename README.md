@@ -61,13 +61,12 @@ A local dashboard that opens at login with everything I run my week on.
 
 ---
 
-### 🔵 [SportPal](https://github.com/Ethan-Hirons/SportPal) (Web App)
-Sports-matching & player-recommendation platform.
-**Tech:** PHP, MySQL, JavaScript, HTML/CSS
-- User profiles
-- Filters (age, location, sport)
-- Recommendations algorithm
-- Login/Register system
+### 🔵 [SportPal](https://github.com/Ethan-Hirons/SportPal) — Player-Matching Web App
+Find someone to play with: browse players, filter by sport and location, send a play invitation.
+**Tech:** PHP 8, MySQL, JavaScript (AJAX), Bootstrap
+- Live filtering, search and sorting over AJAX, with no page reloads
+- Accounts with bcrypt password hashing and validated profile-photo upload
+- Play invitations with date, time and place, stored in MySQL
 
 ---
 
