@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Computer Science major at <b>Marist University</b>, minor in <b>Applied AI</b> — class of 2028<br>
   🎓 Previously 2 years at Lincoln Memorial University<br>
-  🎓 Škola za dizajn, grafiku i održivu gradnju — 4 years as a Web Programmer<br>
+  🎓 Škola za dizajn, grafiku i održivu gradnju (Split) — 4-year Web Programming track<br>
   🎾 NCAA Division I Tennis Athlete&nbsp;&nbsp;•&nbsp;&nbsp;🗣️ Bilingual in English and Croatian<br>
   💻 Web & Software Developer | Python • PHP • JS • SQL • C++ • React
 </p>
@@ -32,10 +32,12 @@
 
 ### 📈 [ORB Trading Bot](https://github.com/Ethan-Hirons/orb-trading-bot) — Automated Day-Trading System
 An Opening Range Breakout strategy trading US equities through the Alpaca API.
-**Tech:** Python, Alpaca API, pytest
+**Tech:** Python, Alpaca API, Linux/systemd, pytest
 - Risk controls first: 1% account risk per trade, server-side trailing stops, daily drawdown kill switch
 - Correlated-theme cap so one bet can't be taken five times over
-- Backtester and parameter sweep harness
+- Runs paper and live accounts side by side on a Linux VPS (systemd, health checks, push alerts)
+- Replay harness validated against real fills, plus a backtester and parameter-sweep harness
+- Pre-registered experiments with out-of-sample holdouts, including an edge study across 7,800+ historical signals
 - A written record of every change — what the evidence supported, and where it didn't
 
 ---
